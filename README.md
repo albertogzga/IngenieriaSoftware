@@ -19,7 +19,7 @@
 
 ---
 
-### 1. Descargar el proyecto que se encuentra ubicado en le branch master
+### 1. Descargar el proyecto que se encuentra ubicado en le branch master y abrirlo en tu IDE de preferencia
 
 ### 2. Configurar el puerto 8080 (opcional)
 Por defecto, Spring Boot usa el puerto `8080`. Si necesitas confirmarlo o configurarlo explícitamente:
