@@ -7,10 +7,13 @@
 ## Verificar si se ha instalado correctamente cada una de las herramientas (Java y Meaven)
 ### 1. Abrimos nuestra terminal e ingresamos el siguiente comando:
   java --version
+  
   ![image](https://github.com/user-attachments/assets/af70015a-2464-4a3d-ad58-e0fa69319ccd)
 
+ 
   De igual manera veirificamos con meaven con el siguiente comando:
   mnv --version
+  
   ![image](https://github.com/user-attachments/assets/5d8e8375-4ce4-4fea-a75e-331896b16bcd)
 
 
