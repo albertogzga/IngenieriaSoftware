@@ -23,7 +23,8 @@
 
 ### 2. Configurar el puerto 8080 (opcional)
 Por defecto, Spring Boot usa el puerto `8080`. Si necesitas confirmarlo o configurarlo explícitamente:
-  server.port=8080
+  server.port=8080. 
+  Esto en el archivo que se encuentra en la carpeta "proyectois\src\main\resources\application.properties"
 ### 3. Correr el proyecto desde el archivo principal "\proyectois\src\main\java\proyectois\ProyectoisApplication.java"
 ### 4. Ingresar (segun el puerto configurado) a la siguiente direccion en tu navegador de preferencia localhost:8080/hello
 Mostrandonos el siguiente mensaje
